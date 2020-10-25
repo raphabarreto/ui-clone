@@ -12,6 +12,8 @@ ___
 
 # 📮 Repositórios 
 
+* [Homepage do Google](https://github.com/raphabarreto/google-homepage-clone)
+* [Homepage do Pinterest](https://github.com/raphabarreto/pinterest-clone)
 * [Tesla](https://github.com/raphabarreto/tesla-homepage-clone)
 * [Typeform](https://github.com/raphabarreto/typeform-homepage-clone)
 * [Twitter](https://github.com/raphabarreto/twitter-clone)
